@@ -32,5 +32,5 @@ theme: /
             "Запиши купить молоко"
             "Добавь запись помыть машину" 
     state: foo
-        enent!: no_match
+        event!: no_match
         a: привет
